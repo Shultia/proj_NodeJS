@@ -1,4 +1,4 @@
-# proj_sandbox_nodejs___api_rest_express_mongodb
+# proj_nodejs___api_rest_express_mongodb
 
 Para saber mais: atalhos do NPM
 PRÓXIMA ATIVIDADE
